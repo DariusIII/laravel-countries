@@ -1,6 +1,6 @@
 <?php
 
-namespace Bhuvidya\Countries;
+namespace DariusIII\Countries;
 
 use Illuminate\Database\Seeder;
 use DB;

@@ -1,9 +1,9 @@
 <?php
 
-namespace Bhuvidya\Countries;
+namespace DariusIII\Countries;
 
 use Illuminate\Support\ServiceProvider;
-use Bhuvidya\Countries\MakeSeederCommand;
+use DariusIII\Countries\MakeSeederCommand;
 
 class CountriesServiceProvider extends ServiceProvider
 {
